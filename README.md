@@ -8,12 +8,12 @@ Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSEL
 
 ## Minhas Habilidades:
 
-<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="40" height="40"/> <img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="40" height="40"/> <img loading="lazy" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="40" height="40"/> 
+<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="50" height="50"/> 
 
 
 ## Estou aprendendo:
 
-<img loading="lazy" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="40" height="40"/>
+<img loading="lazy" src="https://logospng.org/download/react/logo-react-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/angular-js/logo-angular-js-icon-1024.png" width="50" height="50"/>
 
 ## Contatos:
 
