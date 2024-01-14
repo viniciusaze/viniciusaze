@@ -1,10 +1,14 @@
 Olá a todos, me chamo **Vinícius**! 👋
 
-Bem vindo ao meu repositório :D
+😁 Bem vindo(a) ao meu repositório 😁
 
-Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSELVI!
+Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSELVI! 📚🤓
 
-Sou um Desenvolvedor Front-End iniciante.
+😸✅ Sou um Desenvolvedor Front-End iniciante.
+
+## Estou aprendendo
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 ## Contatos:
 
