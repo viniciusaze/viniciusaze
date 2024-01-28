@@ -13,7 +13,7 @@ Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSEL
 
 ## Estou aprendendo:
 
-<img loading="lazy" src="https://logospng.org/download/react/logo-react-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/angular-js/logo-angular-js-icon-1024.png" width="50" height="50"/>
+<img loading="lazy" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="50" height="50"/>
 
 ## Contatos:
 
