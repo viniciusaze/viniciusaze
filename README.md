@@ -4,7 +4,7 @@ Olá a todos, me chamo **Vinícius**! 👋
 
 Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSELVI! 📚🤓
 
-😸✅ Sou um Desenvolvedor Front-End iniciante.
+😸✅ Sou um Desenvolvedor Iniciante!
 
 ## Minhas Habilidades:
 
