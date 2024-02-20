@@ -8,12 +8,12 @@ Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSEL
 
 ## Minhas Habilidades:
 
-<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="50" height="50"/> 
+<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="50" height="50"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"/>
 
 
-## Estou aprendendo:
+## Atualmente foco meu estudo em:
 
-<img loading="lazy" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="50" height="50"/>
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"/>
 
 ## Contatos:
 
