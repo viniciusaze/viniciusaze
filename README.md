@@ -8,7 +8,7 @@ Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSEL
 
 ## Minhas Habilidades:
 
-<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="50" height="50"/> Nível: Básico <br> <img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="50" height="50"/> Nível: Básico<br> <img loading="lazy" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="50" height="50"/> Nível: Iniciante<br> <img loading="lazy" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="50" height="50"/>Nível: Intermediário
+<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="50" height="50"/> Nível: <img loading="lazy" src="https://i.pinimg.com/originals/08/ca/a4/08caa4dea35428ff34a8b8dc65cc18ea.png" width="10" height="10"/> <br> <img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="50" height="50"/> Nível: Básico<br> <img loading="lazy" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="50" height="50"/> Nível: Iniciante<br> <img loading="lazy" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="50" height="50"/>Nível: Intermediário
 
 
 ## Atualmente foco meu estudo em:
