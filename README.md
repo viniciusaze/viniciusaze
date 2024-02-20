@@ -8,12 +8,12 @@ Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSEL
 
 ## Minhas Habilidades:
 
-<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="50" height="50"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"/>
+<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="50" height="50"/> <img loading="lazy" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="50" height="50"/> <img loading="lazy" src="https://banner2.cleanpng.com/20180715/uwc/kisspng-python-django-scikit-learn-javascript-programming-support-vector-machine-5b4bda1d9d21d6.4676602015316976936436.jpg" width="50" height="50"/>
 
 
 ## Atualmente foco meu estudo em:
 
-<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="50" height="50"/>
+<img loading="lazy" src="https://banner2.cleanpng.com/20180715/uwc/kisspng-python-django-scikit-learn-javascript-programming-support-vector-machine-5b4bda1d9d21d6.4676602015316976936436.jpg" width="50" height="50"/>
 
 ## Contatos:
 
