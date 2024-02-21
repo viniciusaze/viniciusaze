@@ -8,10 +8,7 @@ Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSEL
 
 ## Minhas Habilidades:
 
-<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="50" height="50"/>
-<img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="50" height="50"/>
-<img loading="lazy" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="50" height="50"/>  
-<img loading="lazy" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="50" height="50"/> 
+<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="50" height="50"/><img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="50" height="50"/><img loading="lazy" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="50" height="50"/>  <img loading="lazy" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="50" height="50"/> 
 
 
 ## Atualmente foco meu estudo em:
