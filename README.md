@@ -15,7 +15,7 @@ Hello, my name is **Vinícius**! 👋
 
 Actually I study Analysis and Systems Development in UNIASSELVI! 📚🤓
 
-😸✅ I am a beginner Dev!
+😸✅ I'm a beginner Dev!
 
 ## Minhas Habilidades / My Skills:
 
