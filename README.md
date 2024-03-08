@@ -1,6 +1,6 @@
 ## Hello! I'm Vinícius! Welcome to my Github!
 
-<center><img loading="lazy" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZxeWgyeHRmM241d2RtMjJieDgzMWY0cml1bXlkeW1vZXBiMGVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="450" height="330"/></center>
+:<img loading="lazy" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZxeWgyeHRmM241d2RtMjJieDgzMWY0cml1bXlkeW1vZXBiMGVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="450" height="330"/>:
 
 -----------------------------------------------------------------------------------------
 
