@@ -1,6 +1,6 @@
-## Sobre / Abou
+## Sobre / About
 Olá a todos, me chamo **Vinícius**! 👋
-<img loading="lazy" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZxeWgyeHRmM241d2RtMjJieDgzMWY0cml1bXlkeW1vZXBiMGVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="50" height="50"/>
+<img loading="lazy" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZxeWgyeHRmM241d2RtMjJieDgzMWY0cml1bXlkeW1vZXBiMGVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="500" height="500"/>
 😁 Bem vindo(a) ao meu repositório 😁
 
 Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSELVI! 📚🤓
