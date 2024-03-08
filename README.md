@@ -1,15 +1,11 @@
-<center>
-## Hello! I'm Vinícius! Welcome to my Github!
-<img loading="lazy" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZxeWgyeHRmM241d2RtMjJieDgzMWY0cml1bXlkeW1vZXBiMGVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="450" height="330"/>
+<center>## Hello! I'm Vinícius! Welcome to my Github!</center>
+<center><img loading="lazy" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZxeWgyeHRmM241d2RtMjJieDgzMWY0cml1bXlkeW1vZXBiMGVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="450" height="330"/></center>
 
 -----------------------------------------------------------------------------------------
-Hello, my name is **Vinícius**! 👋
 
-😁 Welcome to my repository 😁
+Actually I study Analysis and Systems Development in UNIASSELVI! 
 
-Actually I study Analysis and Systems Development in UNIASSELVI! 📚🤓
-
-😸✅ I'm a beginner Dev!
+I'm a beginner Dev!
 
 ## Minhas Habilidades / My Skills:
 
