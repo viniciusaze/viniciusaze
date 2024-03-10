@@ -14,7 +14,7 @@ I'm a beginner Dev! 😁
 
 <img loading="lazy" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="50" height="50"/> 
 
-##Contact me:
+## Contact me:
 
 <div>
 <a href="https://instagram.com/viniaz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
