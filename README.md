@@ -8,11 +8,11 @@ I'm a beginner Dev! 😁
 
 ## My Skills:
 
-<img loading="lazy" src="https://logospng.org/download/html-5/logo-html-5-256.png" width="50" height="50"/><img loading="lazy" src="https://logospng.org/download/css-3/logo-css-3-256.png" width="50" height="50"/><img loading="lazy" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png" width="50" height="50"/>  <img loading="lazy" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="50" height="50"/> 
+<img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="50" height="50"/><img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="50" height="50"/><img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="50" height="50"/><img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50"/> 
 
 ## Actually I study:
 
-<img loading="lazy" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" width="50" height="50"/> 
+<img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50"/> 
 
 ## Contact me:
 
