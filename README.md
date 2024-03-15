@@ -4,7 +4,7 @@
 -----------------------------------------------------------------------------------------
 Actually I study Analysis and Systems Development in UNIASSELVI! 🤓📚
 
-I'm focus my study in the #Data Science area! 
+I'm focus my study in the Data Science area! 
 
 I'm a beginner Dev! 😁
 
