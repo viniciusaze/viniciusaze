@@ -13,7 +13,7 @@ I'm a beginner Dev! 😁
 
 ## Actually I study:
 
-<img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width="100" height="40"/> 
+<img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUlRkXk1UeKipfdewawICcnrNjEBcD8aqTnzrcck5MA&s" width="40" height="40"/> 
 
 ## Tools:
 
