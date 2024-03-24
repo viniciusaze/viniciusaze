@@ -13,7 +13,7 @@ I'm a beginner Dev! 😁
 
 ## Actually I study:
 
-<img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUlRkXk1UeKipfdewawICcnrNjEBcD8aqTnzrcck5MA&s" width="55" height="40"/> <img loading="lazy" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3DSQL&psig=AOvVaw3NIFIH2dITar4PhzMrkis2&ust=1711384838717000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiAvr2rjYUDFQAAAAAdAAAAABAJ" width="40" height="40"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUlRkXk1UeKipfdewawICcnrNjEBcD8aqTnzrcck5MA&s" width="55" height="40"/> <img loading="lazy" src="https://www.pngwing.com/pt/free-png-imosu" width="40" height="40"/>
 
 ## Tools:
 
