@@ -13,7 +13,7 @@ I'm a beginner Dev! 😁
 
 ## Actually I study:
 
-<img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUlRkXk1UeKipfdewawICcnrNjEBcD8aqTnzrcck5MA&s" width="55" height="40"/>
+<img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/> <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbUlRkXk1UeKipfdewawICcnrNjEBcD8aqTnzrcck5MA&s" width="55" height="40"/> <img loading="lazy" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/09/com037-scaled.jpg" width="40" height="40"/>
 
 ## Tools:
 
