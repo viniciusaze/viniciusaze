@@ -7,7 +7,7 @@ I'm focus my study in the Data Science area!
 
 I'm a beginner Dev! 😁
 
-<img loading="lazy" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M1OGk3bHF1c2NodW1wcjBqbHNldmJqZ3JzNTcyY2puaWw1anRleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QFz0Acu7er6hy/giphy.gif" width="300" height="240"/>
+<img loading="lazy" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M1OGk3bHF1c2NodW1wcjBqbHNldmJqZ3JzNTcyY2puaWw1anRleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QFz0Acu7er6hy/giphy.gif" width="150" height="120"/>
 
 ## My Skills:
 
