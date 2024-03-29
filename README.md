@@ -1,11 +1,13 @@
 ## Hello! I'm Vinícius! Welcome to my Github!
-<img loading="lazy" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZxeWgyeHRmM241d2RtMjJieDgzMWY0cml1bXlkeW1vZXBiMGVqeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="300" height="240"/>
+<img loading="lazy" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTcyMnl1b3p1OXVqdnZtZ211NzdmN254ZGpuYzhkc2NmdXkza2lsciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66pRZHpxoOOXvf8zQX/giphy.gif" width="300" height="240"/>
 
 Actually I study Analysis and Systems Development in UNIASSELVI! 🤓📚
 
 I'm focus my study in the Data Science area! 
 
 I'm a beginner Dev! 😁
+
+<img loading="lazy" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M1OGk3bHF1c2NodW1wcjBqbHNldmJqZ3JzNTcyY2puaWw1anRleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QFz0Acu7er6hy/giphy.gif" width="300" height="240"/>
 
 ## My Skills:
 
