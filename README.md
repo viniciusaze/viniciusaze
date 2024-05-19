@@ -11,7 +11,7 @@ I'm a beginner Dev! 😁
 
 ## Actually I study:
 
-<img loading="lazy" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="40" height="40"/> <img loading="lazy" src="https://banyancloud.io/wp-content/uploads/2023/02/Ms-Sql-150x150.png" width="45" height="45"/> 
+<img loading="lazy" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="45" height="45"/> <img loading="lazy" src="https://banyancloud.io/wp-content/uploads/2023/02/Ms-Sql-150x150.png" width="45" height="45"/> 
 ## Tools:
 
 <img loading="lazy" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40" height="40"/> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/800px-Google_Colaboratory_SVG_Logo.svg.png" width="60" height="40"/> <img loading="lazy" src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:100" width="40" height="40"/> <img loading="lazy" src="https://miro.medium.com/v2/format:webp/1*-hkzF9m5828c-UIaSQNUug.jpeg" width="40" height="40"/>
