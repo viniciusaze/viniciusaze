@@ -1,5 +1,5 @@
 # Olá, me chamo Vinícius! Bem vindo(a) ao meu Github!
-<p style="font-size:18px;">
+<p style="font-size:25 px;">
 👨🏼‍💻 - Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSELVI.<br>
 💼 - Estou em transição de carreira, buscando a primeira oportunidade na área de desenvolvimento.<br>
 🌎 - Moro no Brasil, no estado do Rio Grande do Sul.<br>
