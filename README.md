@@ -5,7 +5,7 @@
 🌎 - Moro no Brasil, no estado do Rio Grande do Sul.<br>
 🐱‍💻 - Mantenho uma rotina de estudos frequente e disciplinada, melhorando a cada dia!<br>
 
-## Minhas Habilidade:
+## Minhas Habilidades:
 
 <img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="40" height="40"/>  <img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="40" height="40"/>  <img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40"/>  <img loading="lazy" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40"/> <img loading="lazy" src="https://res.cloudinary.com/appmasters-io/image/upload/c_fit,w_70,h_70,q_70,f_auto/mysql_87a2317566" width="40" height="40"/> <img loading="lazy" src="https://banyancloud.io/wp-content/uploads/2023/02/Ms-Sql-150x150.png" width="45" height="45"/>
 
