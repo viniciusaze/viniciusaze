@@ -1,9 +1,9 @@
 ## Olá, me chamo Vinícius! Bem vindo(a) ao meu Github!
 
-👨🏼‍💻 - Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSELVI.
-💼 - Estou em transição de carreira, buscando a primeira oportunidade na área de desenvolvimento.
-🌎 - Moro no Brasil, no estado do Rio Grande do Sul.
-🐱‍💻 - Mantenho uma rotina de estudos frequente e disciplinada, melhorando a cada dia!
+👨🏼‍💻 - Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSELVI.<br>
+💼 - Estou em transição de carreira, buscando a primeira oportunidade na área de desenvolvimento.<br>
+🌎 - Moro no Brasil, no estado do Rio Grande do Sul.<br>
+🐱‍💻 - Mantenho uma rotina de estudos frequente e disciplinada, melhorando a cada dia!<br>
 
 ## Minhas Habilidade:
 
