@@ -1,4 +1,4 @@
-## Olá, me chamo Vinícius! Bem vindo(a) ao meu Github!
+# Olá, me chamo Vinícius! Bem vindo(a) ao meu Github!
 
 👨🏼‍💻 - Estudante de Análise e Desenvolvimento de Sistemas pela UNIASSELVI.<br>
 💼 - Estou em transição de carreira, buscando a primeira oportunidade na área de desenvolvimento.<br>
